@@ -62,4 +62,4 @@ cat dh2048.pem  >> ./conf/$1_FULL.ovpn
 echo "</dh>" >> ./conf/$1_FULL.ovpn
 
 
-#/usr/bin/mailx -r sistema@comune.prato.it -s "VPN per $1 con password" -a /etc/openvpn/ca/keys/$1.ovpn sistema@comune.prato.it < /etc/openvpn/ca/keys/$1.password.txt
+#/usr/bin/mailx -r sistema@pippo.it -s "VPN per $1 con password" -a /etc/openvpn/ca/keys/$1.ovpn sistema@pippo.it < /etc/openvpn/ca/keys/$1.password.txt
