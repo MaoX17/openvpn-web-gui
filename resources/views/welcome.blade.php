@@ -92,7 +92,7 @@
                     Vpn Manager
                 </div>
                 <div>
-                    Comune di Prato
+                    Pippo
                 </div>
                 <div class="m-b-md">
                     Gestore dei certificati e relative utenze
